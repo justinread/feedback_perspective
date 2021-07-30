@@ -1,0 +1,33 @@
+# Simulations 
+# EDGE Name mv_cut feh_cut mv feh
+Halo383_fiducial    -9.749  -1.961  -10.494  -2.021
+Halo383_fiducial_late           -10.108  -2.025  -10.852  -2.068
+Halo600_fiducial    -8.020  -2.221   -8.772  -2.428
+Halo600_fiducial_later_mergers   -7.421  -2.500   -8.180  -2.502
+Halo605_fiducial    -8.979  -2.238   -9.733  -2.214
+Halo624_fiducial    -8.185  -2.264   -8.932  -2.304
+Halo624_fiducial_higher_mass     -8.868  -2.137   -9.627  -2.173
+Halo1445_fiducial   -5.592  -2.521   -6.346  -2.578
+Halo1459_fiducial   -6.861  -2.339   -7.623  -2.402
+Halo1459_fiducial_Mreionx02      -4.977  -2.968   -5.723  -2.926
+Halo1459_fiducial_Mreionx03      -6.091  -2.595   -6.844  -2.577
+Halo1459_fiducial_Mreionx12      -7.538  -2.375   -8.295  -2.342
+Halo600_RT          -5.712  -2.901   -6.459  -3.001
+Halo605_RT          -8.253  -2.190   -9.004  -2.154
+Halo624_RT          -7.153  -2.384   -7.901  -2.461
+Halo1445_RT         -5.436  -2.815   -6.195  -2.840
+Halo1459_RT         -9.057  -2.409   -9.805  -2.396
+# FIRE M_* FeH, Escala et al. 2018
+m10q		1.7e6	-2.16
+m10q.md		2.0e6	-2.12
+m10v		1.1e6	-1.82
+m10v.md		1.5e6	-1.54
+# Applebaum+2021 Justice League
+Sandra2	-18.5 -0.9
+Sandra3	-17.4 -0.9
+Sandra4	-15.8 -1.2
+Sandra5	-15.5 -1.3
+Elena9	-13.3 -1.6
+Elena14	-10.0 -2.0
+Elena16	-8.1 -2.1
+Elena20	-8.4 -2.2
